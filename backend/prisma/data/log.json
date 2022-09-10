@@ -1,0 +1,541 @@
+[
+  {
+    "id": "62fe73f5764d0f74e0f5532c",
+    "type": "SEARCH",
+    "data": "string",
+    "createdAt": "2022-08-18T17:16:37.100Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63023414b14a810d00bdb39c",
+    "type": "SEARCH",
+    "data": "string",
+    "createdAt": "2022-08-21T13:33:08.385Z",
+    "userId": null
+  },
+  {
+    "id": "63023443437f9e421ca1efa0",
+    "type": "SEARCH",
+    "data": "den do",
+    "createdAt": "2022-08-21T13:33:55.219Z",
+    "userId": null
+  },
+  {
+    "id": "63023454437f9e421ca1efa1",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T13:34:12.040Z",
+    "userId": null
+  },
+  {
+    "id": "63023454437f9e421ca1efa2",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T13:34:12.472Z",
+    "userId": null
+  },
+  {
+    "id": "63023454437f9e421ca1efa3",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T13:34:12.904Z",
+    "userId": null
+  },
+  {
+    "id": "6302346a437f9e421ca1efa4",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-21T13:34:34.246Z",
+    "userId": null
+  },
+  {
+    "id": "63023470437f9e421ca1efa5",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-21T13:34:40.910Z",
+    "userId": null
+  },
+  {
+    "id": "6302553f7f39299cc7bfcb51",
+    "type": "SEARCH",
+    "data": "tai nạn",
+    "createdAt": "2022-08-21T15:54:39.371Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "6302554e7f39299cc7bfcb52",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T15:54:54.050Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "630255607f39299cc7bfcb53",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-21T15:55:12.096Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "6302590981490c9d58208bc7",
+    "type": "SEARCH",
+    "data": "string",
+    "createdAt": "2022-08-21T16:10:49.892Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63026261a23225afc117652f",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T16:50:41.565Z",
+    "userId": null
+  },
+  {
+    "id": "63026287a23225afc1176530",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T16:51:19.647Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63026357a23225afc1176531",
+    "type": "SEARCH",
+    "data": "vuot den do",
+    "createdAt": "2022-08-21T16:54:47.302Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63026365a23225afc1176532",
+    "type": "SEARCH",
+    "data": "tai nan",
+    "createdAt": "2022-08-21T16:55:01.932Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63026442a23225afc1176533",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T16:58:42.386Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "6302676daa1a99a124e44350",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-21T17:12:13.965Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63026791aa1a99a124e44351",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-21T17:12:49.473Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63026796aa1a99a124e44352",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-21T17:12:54.172Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "63026799aa1a99a124e44353",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-21T17:12:57.005Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "6302679aaa1a99a124e44354",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T17:12:58.808Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "630267b5aa1a99a124e44355",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-21T17:13:25.725Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "630267c8aa1a99a124e44356",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T17:13:44.131Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "630267d4aa1a99a124e44357",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T17:13:56.967Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "6302681eaa1a99a124e44358",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-21T17:15:10.422Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "630391705f5625093c4583fc",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:23:44.473Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303917a5f5625093c4583fd",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:23:54.345Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303918a5f5625093c4583fe",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:24:10.807Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630391e05f5625093c4583ff",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:25:36.294Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303920e5f5625093c458400",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:26:22.027Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303954da6786ab79239dd8a",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:40:13.673Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303958aa6786ab79239dd8b",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:41:14.518Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630395dea6786ab79239dd8c",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:42:38.010Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630395e0a6786ab79239dd8d",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T14:42:40.453Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630395e3a6786ab79239dd8e",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:42:43.230Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303964ba6786ab79239dd8f",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:44:27.783Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303965ca6786ab79239dd90",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:44:44.263Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303965ea6786ab79239dd91",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:44:46.292Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630396aaa6786ab79239dd92",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:46:02.107Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630396eba6786ab79239dd93",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:47:07.037Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630396f6a6786ab79239dd94",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:47:18.845Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303973da6786ab79239dd95",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:48:29.093Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039765a6786ab79239dd96",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:49:09.150Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039785a6786ab79239dd97",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:49:41.343Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630397cca6786ab79239dd98",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:50:52.259Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630397e8a6786ab79239dd99",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:51:20.593Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630397f3a6786ab79239dd9a",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:51:31.800Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039855a6786ab79239dd9b",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:53:09.416Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630398fca6786ab79239dd9c",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh đến giao thông đường bộ là một người đàn ông không chấp nhận được ",
+    "createdAt": "2022-08-22T14:55:56.195Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039903a6786ab79239dd9d",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T14:56:03.666Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039905a6786ab79239dd9e",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:56:05.528Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039907a6786ab79239dd9f",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T14:56:07.742Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303990ea6786ab79239dda0",
+    "type": "SEARCH",
+    "data": "vượt đèn đỏ",
+    "createdAt": "2022-08-22T14:56:14.625Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039910a6786ab79239dda1",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T14:56:16.503Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039924a6786ab79239dda2",
+    "type": "SEARCH",
+    "data": "xe may",
+    "createdAt": "2022-08-22T14:56:36.534Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039935a6786ab79239dda3",
+    "type": "SEARCH",
+    "data": "xe may",
+    "createdAt": "2022-08-22T14:56:53.213Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "63039edaa6786ab79239dda4",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T15:20:58.621Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303b5d333420d0dcbeaf94a",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T16:58:59.742Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303b5df33420d0dcbeaf94b",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T16:59:11.690Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303b873ffdef6fbbaad1f26",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:10:11.309Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303b888ffdef6fbbaad1f27",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:10:32.159Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303b8ddffdef6fbbaad1f28",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:11:57.699Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303b8f5ffdef6fbbaad1f29",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:12:21.194Z",
+    "userId": null
+  },
+  {
+    "id": "6303b927ffdef6fbbaad1f2a",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-22T17:13:11.488Z",
+    "userId": null
+  },
+  {
+    "id": "6303b93cffdef6fbbaad1f2b",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:13:32.393Z",
+    "userId": null
+  },
+  {
+    "id": "6303b94fffdef6fbbaad1f2c",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:13:51.669Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303bba0ffdef6fbbaad1f2d",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:23:44.775Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303bbb6ffdef6fbbaad1f2e",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:24:06.529Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303bc06ffdef6fbbaad1f2f",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:25:26.000Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303bce372223481d2f2c1d5",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:29:07.019Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "6303bcf972223481d2f2c1d6",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-22T17:29:29.006Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630e4af5335d0e81e6e4415f",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-30T17:37:57.607Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630e4b88335d0e81e6e44163",
+    "type": "SEARCH",
+    "data": "không chấp hành hiệu lệnh giao thông",
+    "createdAt": "2022-08-30T17:40:24.424Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630e4b8b335d0e81e6e44164",
+    "type": "SEARCH",
+    "data": "xe may",
+    "createdAt": "2022-08-30T17:40:27.946Z",
+    "userId": "63009ee932b9e094719d3336"
+  },
+  {
+    "id": "630e4c03335d0e81e6e44168",
+    "type": "SEARCH",
+    "data": "dừng xe tại biển cấm dừng",
+    "createdAt": "2022-08-30T17:42:27.849Z",
+    "userId": "62b87136cc4a690ac01af433"
+  },
+  {
+    "id": "630e4c18335d0e81e6e4416b",
+    "type": "SEARCH",
+    "data": "vuot den do",
+    "createdAt": "2022-08-30T17:42:48.902Z",
+    "userId": "62b87136cc4a690ac01af433"
+  }
+]

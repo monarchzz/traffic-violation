@@ -1,0 +1,219 @@
+[
+  {
+    "id": "62b871d01bad3bce16c1e749",
+    "viewCount": 28,
+    "title": "Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường",
+    "createdAt": "2022-08-18T13:19:02.583Z",
+    "affectedVehicle": "BOTH",
+    "minPenalty": 100000,
+    "maxPenalty": 300000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701128/ld1_vfizrp.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701131/khong-chap-hanh-chi-dan-cua-bien-bao-hieu-2_olg3ot.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "62fe3766859c8aca43d8f944",
+    "viewCount": 12,
+    "title": "Không không chấp hành hiệu lệnh của đèn tín hiệu giao thông",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 800000,
+    "maxPenalty": 1000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701127/loi-vuot-den-do-phat-bao-nhieu-tien-2021_sz3fq2.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701128/quy-dinh-xu-phat-khi-xe-vuot-den-do-moi-nhat-nam-2022-vuot-den-vang-co-loi-khong-danvietvn-16496053925101402006131_i0n0nz.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "62fe383ca83b668315b9b2c9",
+    "viewCount": 9,
+    "title": "Không không chấp hành hiệu lệnh của đèn tín hiệu giao thông",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 4000000,
+    "maxPenalty": 6000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701127/muc-xu-phat-doi-voi-hanh-vi-khong-chap-hanh-tin-hieu-den-giao-thong-_tfnbmy.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701129/khong-chap-hanh-tin-hieu-giao-thong_i5gmz0.png",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701128/quy-dinh-xu-phat-khi-xe-vuot-den-do-moi-nhat-nam-2022-vuot-den-vang-co-loi-khong-danvietvn-16496053925101402006131_i0n0nz.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630e46ccbde74394ff246b81",
+    "viewCount": 7,
+    "title": "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "BIKE",
+    "minPenalty": 800000,
+    "maxPenalty": 1000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661879839/download_kwnfsw.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661879840/khong_chap_hanh_hieu_lenh_cua_canh_sat_giao_thong_2108173029_jvvj4k.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661879847/khong_chap_hanh_5_w0x7ud.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630e47a655b491f21362269b",
+    "viewCount": 9,
+    "title": "Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "BIKE",
+    "minPenalty": 300000,
+    "maxPenalty": 400000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701128/ld1_vfizrp.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701131/khong-chap-hanh-chi-dan-cua-bien-bao-hieu-2_olg3ot.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661701127/muc-xu-phat-doi-voi-hanh-vi-khong-chap-hanh-tin-hieu-den-giao-thong-_tfnbmy.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630e4884e6c3521788867fca",
+    "viewCount": 12,
+    "title": "Vượt cầu ngang, cầu chung khi đèn đỏ đã bật sáng.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "BIKE",
+    "minPenalty": 800000,
+    "maxPenalty": 1000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661880560/co-tinh-vuot-den-do-khi-di-qua-duong-sat-bi-xu-phat-the-nao_xk2ysd.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661880558/qua-duong-sat-an-toan_amib_thumb_uvauny.png",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661880557/vuot-rao-chan-duong-sat-bi-phat-bao-nhieu-1405_xaxlvd.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630e4a420f7fb0fd674f9e5a",
+    "viewCount": 14,
+    "title": "Không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "BIKE",
+    "minPenalty": 800000,
+    "maxPenalty": 1000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661880560/co-tinh-vuot-den-do-khi-di-qua-duong-sat-bi-xu-phat-the-nao_xk2ysd.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661880558/qua-duong-sat-an-toan_amib_thumb_uvauny.png",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661880557/vuot-rao-chan-duong-sat-bi-phat-bao-nhieu-1405_xaxlvd.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630f843d0d04405c5144695b",
+    "viewCount": 10,
+    "title": "Điều khiển xe kéo rơ moóc không có biển báo hiệu theo quy định.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 300000,
+    "maxPenalty": 400000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661961459/hinh-tam-giac-dau-xe-container_qamai6.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661961458/9743356_x4zjdp.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661961464/khong-gan-bien-bao-hieu-o-phia-truoc-xe-o-to-duoc-keo-bi-phat-bao-nhieu_bu5jon.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630f860582bf9cbe5abc9827",
+    "viewCount": 10,
+    "title": "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 4000000,
+    "maxPenalty": 6000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661879840/khong_chap_hanh_hieu_lenh_cua_canh_sat_giao_thong_2108173029_jvvj4k.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661879847/khong_chap_hanh_5_w0x7ud.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630fbef61c51d39f14606336",
+    "viewCount": 10,
+    "title": "Điều khiển xe lạng lách, đánh võng không chấp hành hiệu lệnh dừng xe của người thi hành công vụ hoặc gây tai nạn giao thông.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 18000000,
+    "maxPenalty": 20000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661976226/o-to_oa8vta.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661879840/khong_chap_hanh_hieu_lenh_cua_canh_sat_giao_thong_2108173029_jvvj4k.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630fc076051909e441e46122",
+    "viewCount": 10,
+    "title": "Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 800000,
+    "maxPenalty": 1000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661976674/o-to-vuot-rao-chan-duong-ngang-0619_vdldyp.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661976674/z2179629574739-988f5fdaf9ed1a27821de95c304710fa_960_576_834_ko2hz2.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630fc0efe18942f5479a87fe",
+    "viewCount": 10,
+    "title": "Vượt đường ngang, cầu chung khi đèn đỏ đã bật sáng.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 4000000,
+    "maxPenalty": 6000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661976674/o-to-vuot-rao-chan-duong-ngang-0619_vdldyp.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661976674/z2179629574739-988f5fdaf9ed1a27821de95c304710fa_960_576_834_ko2hz2.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630fc1a690dc53e072b807f5",
+    "viewCount": 10,
+    "title": "Không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 4000000,
+    "maxPenalty": 6000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661976674/o-to-vuot-rao-chan-duong-ngang-0619_vdldyp.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661976674/z2179629574739-988f5fdaf9ed1a27821de95c304710fa_960_576_834_ko2hz2.jpg"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630fc24222d02c660acdad60",
+    "viewCount": 10,
+    "title": "Dùng tay sử dụng điện thoại di động khi đang điều khiển xe chạy trên đường.",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 2000000,
+    "maxPenalty": 3000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661977246/4870693_Xe_Tinhte_sudungtainghe_dienthoai_1_hdxy7o.jpg",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661977248/khong-su-dung-dien-thoai-khi-dang-lai-xe-7647_dvubnk.png",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661977251/tu-01-01-2017-cam-dung-tay-su-dung-dien-thoai-khi-lai-o-to-600_mpfxqc.png"
+    ],
+    "userIds": []
+  },
+  {
+    "id": "630fc37ed85ea4980cc4a3bf",
+    "viewCount": 10,
+    "title": "Đièu khiển xe (kể cả rơ móc và sơ mi rơ móc) không gắn biển số (đối với loại xe có quy định phải gắn biển số).",
+    "createdAt": "2022-08-18T13:19:03.335Z",
+    "affectedVehicle": "CAR",
+    "minPenalty": 2000000,
+    "maxPenalty": 3000000,
+    "images": [
+      "https://res.cloudinary.com/monarchz/image/upload/v1661977666/xu-phat-17_i16snx.png",
+      "https://res.cloudinary.com/monarchz/image/upload/v1661977665/quy-dinh-ve-xe-keo-xe-xe-ro-m%C3%B4c-khi-tham-gia-giao-thong_afgiho.jpg"
+    ],
+    "userIds": []
+  }
+]

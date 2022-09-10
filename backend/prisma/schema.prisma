@@ -1,0 +1,134 @@
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id              String      @id @default(auto()) @map("_id") @db.ObjectId
+  logs            Log[]
+  savedViolations Violation[] @relation(fields: [violationIds], references: [id])
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime?   @updatedAt
+  email           String      @unique
+  // user passrord : 123123
+  password        String
+  name            String
+  phone           String
+  birthday        DateTime
+  gender          Gender
+  avatar          String
+  violationIds    String[]    @db.ObjectId
+  comments        Comment[]
+  reports         Report[]
+}
+
+model Log {
+  id        String   @id @default(auto()) @map("_id") @db.ObjectId
+  // * nếu action là SEARCH => lưu keyword
+  // * nếu action là SAVE_RESULT => lưu id
+  type      LogType
+  data      String // optional: tạo entity riêng cho log data
+  createdAt DateTime @default(now())
+  User      User?    @relation(fields: [userId], references: [id])
+  userId    String?  @db.ObjectId
+}
+
+model Violation {
+  id              String    @id @default(auto()) @map("_id") @db.ObjectId
+  sections        Section[]
+  viewCount       Int       @default(0)
+  title           String
+  createdAt       DateTime  @default(now())
+  affectedVehicle Vehicle
+  minPenalty      Int
+  maxPenalty      Int
+  images          String[]
+  userIds         String[]  @db.ObjectId
+  users           User[]    @relation(fields: [userIds], references: [id])
+  reports         Report[]
+  comments        Comment[]
+}
+
+model Section {
+  id          String             @id @default(auto()) @map("_id") @db.ObjectId
+  type        SectionType
+  reference   ReferenceDocument?
+  data        String
+  penalty     String? // mức phạt
+  createdAt   DateTime           @default(now())
+  violation   Violation          @relation(fields: [violationId], references: [id])
+  violationId String             @db.ObjectId
+}
+
+model ReferenceDocument {
+  id         String    @id @default(auto()) @map("_id") @db.ObjectId
+  startIndex Int
+  endIndex   Int
+  title      String
+  createdAt  DateTime  @default(now())
+  Document   Document? @relation(fields: [documentId], references: [id])
+  documentId String?   @db.ObjectId
+  sectionId  String    @unique @db.ObjectId
+  section    Section   @relation(fields: [sectionId], references: [id])
+}
+
+model Document {
+  id                String              @id @default(auto()) @map("_id") @db.ObjectId
+  title             String // ví dụ 100/2019/CP-DP => Nghị định 100 năm 2019 về xử phạt vi phạm giao thông
+  data              String // nội dung của nghị định
+  createdAt         DateTime            @default(now())
+  ReferenceDocument ReferenceDocument[]
+}
+
+model Report {
+  id          String    @id @default(auto()) @map("_id") @db.ObjectId
+  title       String
+  data        String
+  images      String[]
+  createdAt   DateTime  @default(now())
+  userId      String    @db.ObjectId
+  user        User      @relation(fields: [userId], references: [id])
+  violationId String    @db.ObjectId
+  violation   Violation @relation(fields: [violationId], references: [id])
+}
+
+model Comment {
+  id          String    @id @default(auto()) @map("_id") @db.ObjectId
+  text        String
+  createdAt   DateTime  @default(now())
+  userId      String    @db.ObjectId
+  user        User      @relation(fields: [userId], references: [id])
+  violationId String    @db.ObjectId
+  violation   Violation @relation(fields: [violationId], references: [id])
+}
+
+// * for scale up
+enum LogType {
+  SEARCH
+  SAVE_RESULT
+  UNSAVED
+}
+
+enum SectionType {
+  ACTION // hành vi
+  PENALTY // phạt
+  EXTRA // phạt bổ sung
+  EXCEPT // trường hợp loại trừ
+  NOTE // ghi chú
+  RELATED
+}
+
+enum Vehicle {
+  CAR
+  BIKE
+  BOTH
+}
+
+enum Gender {
+  MALE
+  FEMALE
+}

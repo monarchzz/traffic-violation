@@ -1,0 +1,44 @@
+name: flutter_boilerplate
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: 3.0.4
+
+dependencies:
+  auto_route: ^4.2.1
+  bloc: ^8.0.3
+  cached_network_image: ^3.2.1
+  custom_pop_up_menu: ^1.2.4
+  dio: ^4.0.6
+  file_picker: ^5.0.1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.1
+  flutter_localizations:
+    sdk: flutter
+  freezed_annotation: ^2.1.0
+  get_it: ^7.2.0
+  intl: ^0.17.0
+  json_annotation: ^4.6.0
+  shared_preferences: ^2.0.15
+  substring_highlight: ^1.0.33
+  timeago: ^3.3.0
+
+dev_dependencies:
+  bloc_test: ^9.0.3
+  build_runner: ^2.2.0
+  flutter_test:
+    sdk: flutter
+  freezed: ^2.1.0+1
+  json_serializable: ^6.3.1
+  mocktail: ^0.3.0
+  very_good_analysis: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/

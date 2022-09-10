@@ -1,0 +1,51 @@
+[
+  {
+    "id": "62b87136cc4a690ac01af433",
+    "createdAt": "2022-08-18T13:19:02.270Z",
+    "updatedAt": "2022-08-30T17:43:52.185Z",
+    "email": "hieunt0220@gmail.com",
+    "password": "$2b$10$2Fu/9L6GTLuoNHJVrBR2oODGiCMawBrAYA8o10KXlE9TCCC.AUIZC",
+    "name": "Nguyễn Trung Hiếu",
+    "phone": "0985938085",
+    "birthday": "2000-02-20T07:48:00.000Z",
+    "gender": "MALE",
+    "avatar": "https://res.cloudinary.com/monarchz/image/upload/v1661705040/piemfgr305jy8aopcpv9.jpg",
+    "violationIds": [
+      "62b871d01bad3bce16c1e749",
+      "62fe383ca83b668315b9b2c9",
+      "62fe3766859c8aca43d8f944",
+      "630e4884e6c3521788867fca"
+    ]
+  },
+  {
+    "id": "62b87161cf587017df5682a8",
+    "createdAt": "2022-08-18T13:19:02.369Z",
+    "updatedAt": "2022-08-18T13:19:02.369Z",
+    "email": "admin@gmail.com",
+    "password": "$2b$10$2Fu/9L6GTLuoNHJVrBR2oODGiCMawBrAYA8o10KXlE9TCCC.AUIZC",
+    "name": "Application Admin",
+    "phone": "0985938085",
+    "birthday": "2000-02-20T07:48:00.000Z",
+    "gender": "MALE",
+    "avatar": "https://res.cloudinary.com/monarchz/image/upload/v1660416952/ayvsuzqofyet22sk1zb8.jpg",
+    "violationIds": []
+  },
+  {
+    "id": "63009ee932b9e094719d3336",
+    "createdAt": "2022-08-20T08:44:25.956Z",
+    "updatedAt": "2022-08-30T17:40:41.987Z",
+    "email": "demo@gmail.com",
+    "password": "$2b$10$RZasjk77gDaGbTtBaoutVOMntsQKbkMSB7F24Knwv8N4wJLcSrviW",
+    "name": "Nguyễn Trung Hiếu",
+    "phone": "0989898989",
+    "birthday": "2022-08-04T00:00:00.000Z",
+    "gender": "FEMALE",
+    "avatar": "https://res.cloudinary.com/monarchz/image/upload/v1660991910/sj55s11duzaqeepafakg.png",
+    "violationIds": [
+      "62fe3766859c8aca43d8f944",
+      "62b871d01bad3bce16c1e749",
+      "62fe383ca83b668315b9b2c9",
+      "630e4a420f7fb0fd674f9e5a"
+    ]
+  }
+]

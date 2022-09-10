@@ -1,0 +1,242 @@
+[
+  {
+    "id": "62b871dddf4d44331cfbf91b",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy\n<b>Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường</b>",
+    "penalty": "Phạt tiền từ 100.000 đồng đến 200.000 đồng",
+    "createdAt": "2022-08-18T13:19:02.866Z",
+    "violationId": "62b871d01bad3bce16c1e749"
+  },
+  {
+    "id": "62b871e49bbaf32f63a7b2c7",
+    "type": "EXTRA",
+    "data": "Nếu gây tai nạn giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:02.964Z",
+    "violationId": "62b871d01bad3bce16c1e749"
+  },
+  {
+    "id": "62b871e878471bf70182c1f8",
+    "type": "EXCEPT",
+    "data": "Trường hợp này không áp dụng đối với các hàng vi vi phạm quy định tại điểm c, điểm đ, điểm e, điểm h khoản 2; điểm d, điểm g, điểm i, điểm m khoản 3; điểm a, điểm b, điểm c, điểm d, điểm e khoản 4; khoản 5; điểm b khoản 6; điểm a, điểm b khoản 7; điểm d khoản 8 Điều 6 Nghị định 100/2019/NĐ-CP",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.057Z",
+    "violationId": "62b871d01bad3bce16c1e749"
+  },
+  {
+    "id": "62fe381c35c740de38829378",
+    "type": "PENALTY",
+    "data": "Người điểu kiển xe mô tô, xe gắn máy (kể cả các xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy. <b> Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.</b>",
+    "penalty": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "62fe3766859c8aca43d8f944"
+  },
+  {
+    "id": "62fe38e453d5a2207078be93",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấ phép lái xe từ 01 tháng đến 03 tháng.\nNếu gây tai nạ giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "62fe3766859c8aca43d8f944"
+  },
+  {
+    "id": "62fe39c3065535e82697893f",
+    "type": "PENALTY",
+    "data": "Người điểu kiển xe ô tô và các loại xe tương tự xe ô tô. <b> Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.</b>",
+    "penalty": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "62fe383ca83b668315b9b2c9"
+  },
+  {
+    "id": "62fe39c631faddad475a5d60",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấ phép lái xe từ 01 tháng đến 03 tháng.\nNếu gây tai nạ giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "62fe383ca83b668315b9b2c9"
+  },
+  {
+    "id": "630e465c2ee2aaceed0e71d4",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe mô tô,xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy. <b>Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.</b>",
+    "penalty": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630e46ccbde74394ff246b81"
+  },
+  {
+    "id": "630e46da1a29f226a646ee7d",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấ phép lái xe từ 01 tháng đến 03 tháng.\nNếu gây tai nạ giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630e46ccbde74394ff246b81"
+  },
+  {
+    "id": "630e47f6aa3007e272c81996",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe mô tô,xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy. <b>Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung</b>",
+    "penalty": "Phạt tiền từ 300.000 đồng đến 400.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630e47a655b491f21362269b"
+  },
+  {
+    "id": "630e49388322e71e1eddb37b",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe mô tô,xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy. <b>Vượt cầu ngang, cầu chung khi đèn đỏ đã bật sáng.</b>",
+    "penalty": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630e4884e6c3521788867fca"
+  },
+  {
+    "id": "630e4960a012ca480061919c",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấ phép lái xe từ 01 tháng đến 03 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630e4884e6c3521788867fca"
+  },
+  {
+    "id": "630e4a4864cd7432f1b8e6fa",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe mô tô,xe gắn máy (kể cả xe máy điện), các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy. <b>Không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.</b>",
+    "penalty": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630e4a420f7fb0fd674f9e5a"
+  },
+  {
+    "id": "630e4a4bd5b666829302f2ef",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấ phép lái xe từ 01 tháng đến 03 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630e4a420f7fb0fd674f9e5a"
+  },
+  {
+    "id": "630f8517999fa1894b9523f2",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Điều khiển xe kéo rơ moóc không có biển báo hiệu theo quy định.</b>",
+    "penalty": "Phạt tiền từ 300.000 đồng đến 400.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630f843d0d04405c5144695b"
+  },
+  {
+    "id": "630f859dc908d10d9d415bb1",
+    "type": "EXTRA",
+    "data": "Nếu gây tai nạn giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630f843d0d04405c5144695b"
+  },
+  {
+    "id": "630f86d663cc0bcbf925e610",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông.</b>",
+    "penalty": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630f860582bf9cbe5abc9827"
+  },
+  {
+    "id": "630f86e2dafe7ecb82c26b06",
+    "type": "EXTRA",
+    "data": "Bị tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng.\nNếu gây tai nạn giao thông thì bị tước quyền sử dụng giấy phép lái xe từ 02 tháng đến 04 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630f860582bf9cbe5abc9827"
+  },
+  {
+    "id": "630fbf48b2d4f7cf6bf032f1",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Điều khiển xe lạng lách, đánh võng không chấp hành hiệu lệnh dừng xe của người thi hành công vụ hoặc gây tai nạn giao thông.</b>",
+    "penalty": "Phạt tiền từ 18.000.000 đồng đến 20.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fbef61c51d39f14606336"
+  },
+  {
+    "id": "630fbf2cccfb04469fe9407a",
+    "type": "EXTRA",
+    "data": "Bị tước quyền sử dụng Giấy phép lái xe từ 03 tháng đến 05 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fbef61c51d39f14606336"
+  },
+  {
+    "id": "630fc07d728d783cc9f70041",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường khi đi qua đường ngang, cầu chung.</b>",
+    "penalty": "Phạt tiền từ 800.000 đồng đến 1.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc076051909e441e46122"
+  },
+  {
+    "id": "630fc1281e940f4ff6ea887a",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Vượt đường ngang, cầu chung khi đèn đỏ đã bật sáng.</b>",
+    "penalty": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc0efe18942f5479a87fe"
+  },
+  {
+    "id": "630fc12be2aa120b67e6bda6",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấy phép lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc0efe18942f5479a87fe"
+  },
+  {
+    "id": "630fc1ef713d73567975c91d",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Không chấp hành hiệu lệnh, chỉ dẫn của nhân viên gác đường ngang, cầu chung khi đi qua đường ngang, cầu chung.</b>",
+    "penalty": "Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc1a690dc53e072b807f5"
+  },
+  {
+    "id": "630fc1f1e31a57d29aa7457f",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấy phép lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc1a690dc53e072b807f5"
+  },
+  {
+    "id": "630fc2c2884bea9311ef4b0e",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Dùng tay sử dụng điện thoại di động khi đang điều khiển xe chạy trên đường.</b>",
+    "penalty": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc24222d02c660acdad60"
+  },
+  {
+    "id": "630fc2c582e8ddde8fe22e2b",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng. Nếu gây tai nạn giao thông thì bị tước quyền sử dụng Giấy phép lái xe từ 02 tháng đến 04 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc24222d02c660acdad60"
+  },
+  {
+    "id": "630fc4614abd19997fe7c6eb",
+    "type": "PENALTY",
+    "data": "Người điều khiển xe ô tô và các loại xe tương tự xe ô tô.<b>Đièu khiển xe (kể cả rơ móc và sơ mi rơ móc) không gắn biển số (đối với loại xe có quy định phải gắn biển số).</b>",
+    "penalty": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng",
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc37ed85ea4980cc4a3bf"
+  },
+  {
+    "id": "630fc468710edb410023427b",
+    "type": "EXTRA",
+    "data": "Tước quyền sử dụng Giấy phép lái xe từ 01 tháng đến 03 tháng.",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc37ed85ea4980cc4a3bf"
+  },
+  {
+    "id": "630fc474b3c6f48971c72874",
+    "type": "NOTE",
+    "data": "Được phép tạm thời giữ phương tiện trước khi ra quyết định xử phạt theo quy định tại khoản 2, khoản 8 Điều 125 Luật Xử lý vi phạm hành chính (được sửa đổi, bổ sung năm 2020).",
+    "penalty": null,
+    "createdAt": "2022-08-18T13:19:03.406Z",
+    "violationId": "630fc37ed85ea4980cc4a3bf"
+  }
+]
